@@ -1,12 +1,14 @@
 
-<h1 align="center">Bem-Vindo ao Troick Studio 🔷</h1>
+<h1 align="center">Bem-Vindo ao Troick Studio</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/24/c8/ab/24c8abe71a813b3b48929f72ab663c41.jpg?nii=t"  />
+	<img width="1162" height="279" alt="Troick Studio Banner" src="https://github.com/user-attachments/assets/ee2c2291-3ef0-4a0b-8d0e-a687e9d7ebdd" />
+	<!-- <img width="1162" height="443" alt="Troick Studio Banner" src="https://github.com/user-attachments/assets/fe401088-af18-4bd8-8fdc-bd7681390592" /> -->
+  <!-- <img width="1162" height="443" alt="Troick Studio Banner" src="https://github.com/user-attachments/assets/24203225-7d4a-4212-8160-c31fdb9c30f2" /> -->
 </div>
 
 ###
